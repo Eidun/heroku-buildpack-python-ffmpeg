@@ -22,10 +22,10 @@ CACHED_DIRS=".heroku"
 
 # Static configurations for virtualenv caches.
 VIRTUALENV_LOC=".heroku/venv"
-LEGACY_TRIGGER="lib/python3.6.1"
+LEGACY_TRIGGER="lib/python3.6.2"
 PROFILE_PATH="$BUILD_DIR/.profile.d/python.sh"
 
-DEFAULT_PYTHON_VERSION="python-3.6.1"
+DEFAULT_PYTHON_VERSION="python-3.6.2"
 DEFAULT_PYTHON_STACK="cedar"
 PYTHON_EXE="/app/.heroku/python/bin/python"
 PIP_VERSION="9.0.1"
